@@ -35,5 +35,6 @@ Generates a `submit.csv` file for leaderboard submission.
 ---
 
 🛠️ **Made with care for SHL's Research Intern challenge.**
-**Note:** Due to file size and privacy constraints, audio files and CSV datasets are not uploaded here. Please contact me directly or use your local copies as shared in the assignment instructions.
+
+**Note:** Due to file size and privacy constraints, audio files and CSV datasets are not uploaded here. Please get in touch with me directly or use your local copies as shared in the assignment instructions.
 
